@@ -106,16 +106,19 @@ body {
     }
     #nav-sp a {
         display: block;
-        color: #ffff;
     }
     #nav-sp a:link {
-        color: #4e2e00;
+        color: #ffffff;
+    }
+    #nav-sp a:visited {
+        color: #ffffff;
     }
     #nav-sp a:hover {
+        color: #ffffff;
         text-decoration: underline;
     }
     #nav-sp a:active {
-        color: #680000;
+        color: #ffffff;
     }
     #nav-sp .menu {
         text-decoration: none;
